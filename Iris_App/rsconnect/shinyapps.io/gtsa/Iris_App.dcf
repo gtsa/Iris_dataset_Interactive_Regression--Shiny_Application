@@ -1,0 +1,12 @@
+name: Iris_App
+title: Iris_App
+username:
+account: gtsa
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1702329
+bundleId: 2752092
+url: https://gtsa.shinyapps.io/Iris_App/
+when: 1579907945.36004
+asMultiple: FALSE
+asStatic: FALSE
